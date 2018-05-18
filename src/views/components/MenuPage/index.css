@@ -1,0 +1,31 @@
+body{
+    background-color: #ecf0f1;
+}
+
+main{
+    width: 600px; height: 90vh;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius:3px;
+}
+
+.image{
+    background-image: url("https://u.tfstatic.com/restaurant_photos/479/66479/169/612/pizzeria-da-gennaro-vista-sala-5d811.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 20vh;
+    color: transparent;
+}
+
+li{
+    padding-bottom:10px;
+}
+
+li a {
+    text-decoration: none;
+    color: #000;
+}

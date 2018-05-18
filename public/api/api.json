@@ -1,0 +1,59 @@
+{
+    "restaurants": [
+        {
+            "id": 1,
+            "name": "Pizzeria1",
+            "description": "pizzeria chaudron",
+            "imageUrl": "https://static1.squarespace.com/static/540de6b3e4b0131a4d813120/5522d15ae4b0418888602aeb/5522d674e4b0e72a96c86eb2/1445381459722/ERB_PizzeriaOttoOven3.jpg?format=1500w",
+            "menu": [
+                {
+                    "name": "Pizza jambon",
+                    "price": "19,99€"
+                },
+                {
+                    "name": "Pizza pouleet",
+                    "price": "10,99€"
+                },
+                {
+                    "name": "Pizza jambon",
+                    "price": "19,99€"
+                },
+                {
+                    "name": "Pizza jambon",
+                    "price": "19,99€"
+                },
+                {
+                    "name": "Pizza jambon",
+                    "price": "19,99€"
+                },
+                {
+                    "name": "Pizza jambon",
+                    "price": "19,99€"
+                },
+                {
+                    "name": "Pizza jambon",
+                    "price": "19,99€"
+                },
+                {
+                    "name": "Pizza jambon",
+                    "price": "19,99€"
+                },
+                {
+                    "name": "Pizza jambon",
+                    "price": "19,99€"
+                },
+                {
+                    "name": "Pizza jambon",
+                    "price": "19,99€"
+                }
+            ]
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Bob",
+            "commands": []
+        }
+    ]
+}
